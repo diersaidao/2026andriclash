@@ -1,4 +1,5 @@
 安卓clash 
+921xiaozhu
 trojan://faae6bfe-e95e-45df-9761-0eaebdc91e56@xxz16.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%91%87%E4%B8%8B%E6%BB%91%E9%80%89%E6%8B%A9%E9%9D%A0%E5%90%8E%E7%BA%BF%E8%B7%AF921
 trojan://c5de52ca-fcf4-488f-8ff3-a2f0dadc1ab5@xxz16.xiaozhu9545515.com:49213?allowInsecure=1&peer=www.itunes.com&tfo=1#%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B6%E6%AD%A5
 trojan://6dc3611c-cc48-471b-8634-14c077eee0ac@xxz16.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#1.%E7%82%B9%E2%80%9C%E9%85%8D%E7%BD%AE%E2%80%9D
@@ -27,3 +28,14 @@ trojan://64d1d799-746f-4868-8df6-03999e078905@xxz16.xiaozhu9545515.com:41273?all
 trojan://4552d5f8-a41e-4ab6-b20b-7d80f02a47b5@xxz16.xiaozhu9545515.com:41275?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6
 trojan://c63b32ec-0342-4fdd-8d30-2f0dc40b28d8@xxz16.xiaozhu9545515.com:41274?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%A8%F0%9F%87%B3%E5%8F%B0%E6%B9%BE1
 trojan://89c26861-a568-42a4-bcba-51fe6cd3a912@xxz16.xiaozhu9545515.com:41273?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC1
+909飞飞云41到50
+vmess://YXV0bzpmNTVhZDJjZC04MGE5LTRkYzQtYWEzNC1jZmQ5NTI2NmVkMjVAZmYwMDEub3d3b2VkdS5jb206NTk1MDc?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7Gemini&tfo=1&udp=1&alterId=0
+vmess://YXV0bzoyMDY1NmExYi01NGU5LTQyOGQtODQ5OS1lNDgyY2E5MTk3ZWVAZmYwMDEub3d3b2VkdS5jb206NTk1MTc?remarks=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%A8GPT&tfo=1&udp=1&alterId=0
+vmess://YXV0bzpjOTM5ZDEwOC04NDRlLTRkNDctYjg5NC1iMDdmNGFhMjFkNmJAZmYwMDEub3d3b2VkdS5jb206NTk1MDc?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7Gemini&tfo=1&udp=1&alterId=0
+vmess://YXV0bzo3Y2Y4MmI5Ny03MWUxLTQ0NzEtYjBjZS0yMTYyMzIzMjEzMmZAZmYwMDEub3d3b2VkdS5jb206NTk1MTc?remarks=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%A8GPT&tfo=1&udp=1&alterId=0
+vmess://YXV0bzpmY2Y0ZTY4Ni0wYWQwLTQwM2QtODI5Yy03YmRlOTFmMmY0ODRAZmYwMDEub3d3b2VkdS5jb206NTk1MTA?remarks=%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8%E8%A7%A3GPT&tfo=1&udp=1&alterId=0
+vmess://YXV0bzoyODFhYmEzMi0wZDYyLTQ1ZWQtYmJhZS1mMGM5ZTJjOWZiYzhAZmYwMDEub3d3b2VkdS5jb206NTk1MDM?remarks=%E6%97%A5%E6%9C%AC%E4%B8%A8%E8%A7%A3GPT&tfo=1&udp=1&alterId=0
+vmess://YXV0bzpjYzJkYzhhNS0yNDc5LTQyYjAtOTdmOS05NjlhZmE5YTA3NzhAZmYwMDEub3d3b2VkdS5jb206NTk1MTc?remarks=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%A8GPT&tfo=1&udp=1&alterId=0
+vmess://YXV0bzozMTQzNDY3Zi1hMDYyLTQ5NDMtOWRlMi02NDkyZTA1NDQzZWJAZmYwMDEub3d3b2VkdS5jb206NTk1MDc?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7Gemini&tfo=1&udp=1&alterId=0
+vmess://YXV0bzpjYjVhZWFkYy1mZDEzLTRhMzItOWEzMi0yODhjYzAwZGQ3YzNAZmYwMDEub3d3b2VkdS5jb206NTk1MTc?remarks=%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%A8GPT&tfo=1&udp=1&alterId=0
+vmess://YXV0bzphNGU1MjEwMS00MTE4LTQ5YzUtOTI5YS1lOWRiODczNzhmOGVAZmYwMDEub3d3b2VkdS5jb206NTk1MDc?remarks=%E5%8A%A0%E6%8B%BF%E5%A4%A7Gemini&tfo=1&udp=1&alterId=0
