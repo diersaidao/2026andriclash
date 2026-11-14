@@ -66,3 +66,4 @@ vmess://YXV0bzoxMmYyMzk1OS0yYTI1LTQyNDQtYjRlYi1kNTFkMDczYmI3ODlAdHcuc3lzdG1zZXJ2
 trojan://37ero1rzacy81nwf@tw.systmservice.com:17503?peer=tw.systmservice.com&alpn=http/1.1&fingerprint=chrome#2Gemini%E4%B8%93%E7%BA%BF1
 trojan://37ero1rzacy81nwf@tw.systmservice.com:39717?peer=tw.systmservice.com&alpn=http/1.1&fingerprint=chrome#2%20Gemini%E4%B8%93%E7%BA%BF2
 trojan://37ero1rzacy81nwf@tw.systmservice.com:56655?peer=tw.systmservice.com&alpn=http/1.1&fingerprint=chrome#2%20Gemini%E4%B8%93%E7%BA%BF3
+电脑的放进来测试看下
