@@ -34,9 +34,9 @@ trojan://2448a540-7d1e-4e56-b870-cfa90e8dcf3d@xiaozhuaaaa3.xiaozhu9545515.com:49
 trojan://ddd52b98-8634-43a0-8d8c-c37fb91a7ece@xiaozhuaaaa3.xiaozhu9545515.com:41277?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A11
 trojan://fd7c567f-9fba-4df5-a0f1-bd39b28ad870@xiaozhuaaaa3.xiaozhu9545515.com:11276?allowInsecure=1&peer=www.itunes.com&tfo=1#%F0%9F%87%BB%F0%9F%87%B3%E8%B6%8A%E5%8D%971
 4服务不安全
-trojan://7q7e7devq17o7fbq@flux.systmservice.com:11260?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4%E8%BF%91%E6%9C%9F%E5%A2%99%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD
-trojan://7q7e7devq17o7fbq@flux.systmservice.com:41293?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4%E6%96%B0%E5%A2%9E%E4%BB%A5%E4%B8%8B%E5%A4%87%E7%94%A8
-trojan://7q7e7devq17o7fbq@flux.systmservice.com:59274?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4Gemini1
-trojan://7q7e7devq17o7fbq@flux.systmservice.com:15547?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4Gemini2
-trojan://7q7e7devq17o7fbq@flux.systmservice.com:38700?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4Gemini3
-trojan://7q7e7devq17o7fbq@flux.systmservice.com:10182?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8
+trojan://7q7e7devq17o7fbq@flux.systmservice.com:11262?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4%E8%BF%91%E6%9C%9F%E5%A2%99%E5%86%B7%E7%A9%BA%E6%B0%94%E6%9D%A5%E8%A2%AD
+trojan://7q7e7devq17o7fbq@flux.systmservice.com:41295?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4%E6%96%B0%E5%A2%9E%E4%BB%A5%E4%B8%8B%E5%A4%87%E7%94%A8
+trojan://7q7e7devq17o7fbq@flux.systmservice.com:59278?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4Gemini1
+trojan://7q7e7devq17o7fbq@flux.systmservice.com:15549?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4Gemini2
+trojan://7q7e7devq17o7fbq@flux.systmservice.com:38701?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4Gemini3
+trojan://7q7e7devq17o7fbq@flux.systmservice.com:10185?allowInsecure=1&peer=www.itunes.com&alpn=h2,http/1.1&fingerprint=Chrome#4%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8
